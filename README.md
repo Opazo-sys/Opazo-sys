@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, eu sou o Opazo 👋
 
-<!--
-**Opazo-sys/Opazo-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tinkerer, self-hoster e entusiasta de tecnologia baseado em Brasília.
+Gosto de montar minhas próprias ferramentas, fuçar em Linux e explorar IA local.
 
-Here are some ideas to get you started:
+## 🛠️ O que eu uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+
+## 🚀 Projetos
+
+| Projeto | Descrição |
+|---|---|
+| [ai-stack](https://github.com/Opazo-sys/ai-stack) | Assistente de IA privado com Ollama + Open WebUI + SearXNG em VPS |
+
+## 🎮 Fora do terminal
+
+Quando não tô quebrando configurações, tô no PS5 ou pensando em começar um canal de gaming.
