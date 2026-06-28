@@ -21,7 +21,6 @@ Currently diving deeper into Linux, Docker, and self-hosted infrastructure.
 ### [ai-stack](https://github.com/Opazo-sys/ai-stack)
 Self-hosted AI assistant running on a VPS — Ollama + Open WebUI + SearXNG behind Nginx with HTTPS.  
 Built this to get hands-on with Docker, reverse proxies, and Linux in a real production environment.  
-*(Yes, it actually works. No, I won't touch what I don't need to.)*
 
 ### [oci-arm-provisioner](https://github.com/Opazo-sys/oci-arm-provisioner)
 ☁️ OCI ARM Provisioner
