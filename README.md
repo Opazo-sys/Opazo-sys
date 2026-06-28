@@ -1,4 +1,4 @@
-# Hey, I'm Opazo 👋
+ # Hey, I'm Opazo 👋
 
 Sysadmin and infra enthusiast based in Brasília, Brasil.  
 I like building things, breaking them, and figuring out why they broke.  
@@ -30,6 +30,7 @@ An automated tool designed to provision Ampere ARM Compute instances on Oracle C
 ### [Calculadora-Python](https://github.com/Opazo-sys/Calculadora-Python)
 🐍 Python Calculator
 A clean, efficient, and user-friendly calculator built purely in Python. This project was developed to practice and master fundamental programming concepts, object-oriented programming (OOP), and clean code principles.
+
 ---
 
 ## 📜 Certifications
