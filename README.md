@@ -23,6 +23,13 @@ Self-hosted AI assistant running on a VPS — Ollama + Open WebUI + SearXNG behi
 Built this to get hands-on with Docker, reverse proxies, and Linux in a real production environment.  
 *(Yes, it actually works. No, I won't touch what I don't need to.)*
 
+### [oci-arm-provisioner](https://github.com/Opazo-sys/oci-arm-provisioner)
+☁️ OCI ARM Provisioner
+An automated tool designed to provision Ampere ARM Compute instances on Oracle Cloud Infrastructure (OCI). Since ARM Always-Free shapes are highly demanded and often out of stock, this script automates the continuous retrying process until the resources are successfully allocated.
+
+### [Calculadora-Python](https://github.com/Opazo-sys/Calculadora-Python)
+🐍 Python Calculator
+A clean, efficient, and user-friendly calculator built purely in Python. This project was developed to practice and master fundamental programming concepts, object-oriented programming (OOP), and clean code principles.
 ---
 
 ## 📜 Certifications
